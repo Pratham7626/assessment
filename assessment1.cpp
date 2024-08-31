@@ -1,18 +1,3 @@
-/*Over Here, take string input from user and perform string operations listed below :
-. reverse a string
-. Concatenation
-. Palindrome
-. Copy a string
-. Length of the string
-. Frequency of character in s string
-. Find number of vowels and consonants
-. Find number of blank spaces and digits
-As given above perform the operation as per user’s choice
-If user will not select any of the above then it should not perform any operation and
-give an appropriate user friendly message
-After performing the operation ask the user if the user wants to continue or not ?*/
-
-
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
@@ -213,10 +198,3 @@ int main()
     } while (con==1);
     
 }
-
-    
-       
-                
-        
-            
-
